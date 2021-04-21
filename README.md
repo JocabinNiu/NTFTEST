@@ -1,0 +1,2 @@
+# NTFTEST
+Novice camp training
